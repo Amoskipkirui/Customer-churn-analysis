@@ -45,6 +45,7 @@ Stay up to day date the market trends which are bound to change every other sing
 
                           **Acknowlegements**
 I would like to express my sincere gratitude to my technical mentors at Moringa school and my data science group members from Moringa school for their unconditional guidance and support throughout this project.
+
                        ** Contact information**
 For further inquiries, contact;
 Amos Kipkirui
