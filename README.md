@@ -38,10 +38,10 @@ This project is implemented in python under the following dependencies;
 In conclusion, the analysis of the customer churn in SyriaTel has provided clear knowledge on the factors that leads to churning of the customers as well as  valuable insights into the  customer behaviors. 
 The models have provided a clear predictive power on customers churn as well as identifying important features that greatly influence customer retention.
       Going forward the following steps can be taken;
-. The company can go ahead and develop specific retention strategies such as ensuring certain areas that had high churn rate are given quality network coverage and offers like increased bundles at a cheaper rate
-. Monitor and evaluate the ever changing customers behavior in order to stay up to date with the customer churn mitigation strategies 
+1. The company can go ahead and develop specific retention strategies such as ensuring certain areas that had high churn rate are given quality network coverage and offers like increased bundles at a cheaper rate
+2. Monitor and evaluate the ever changing customers behavior in order to stay up to date with the customer churn mitigation strategies 
 Stay up to day date the market trends which are bound to change every other single day.
-. Focus on the customer satisfaction. This will ensure that the customers who have not churned are always enjoying the services of the company and that at no point will they discontinue with the usage of the company’s services and products.
+3. Focus on the customer satisfaction. This will ensure that the customers who have not churned are always enjoying the services of the company and that at no point will they discontinue with the usage of the company’s services and products.
 
                           **Acknowlegements**
 I would like to express my sincere gratitude to my technical mentors at Moringa school and my data science group members from Moringa school for their unconditional guidance and support throughout this project.
