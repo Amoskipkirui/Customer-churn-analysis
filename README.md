@@ -18,19 +18,19 @@ The project involved the following steps:
 
                         **Repository structure**
 
-1. Data - contains the dataset used in this project
-2. index.ipynb/ notebook - contains the full project codes 
-3. Presentation pdf. This contains the non technical presentation of the project.It contains visualizations from the notebook codes
-4. README.md. Provides an overview of the project
+  1. Data - contains the dataset used in this project
+  2. index.ipynb/ notebook - contains the full project codes 
+  3. Presentation pdf. This contains the non technical presentation of the project.It contains visualizations from the notebook codes
+  4. README.md. Provides an overview of the project
 
                         **Project dependencies**
 
 This project is implemented in python under the following dependencies;
-1. Scikit-learn
-2. pandas
-3. Matplotlib
-4. Numpy
-5. Seaborn
+   1. Scikit-learn
+   2. pandas
+   3. Matplotlib
+   4. Numpy
+   5. Seaborn
     Install or import them before running the code to avoid errors
 
                               **Conclusion and next steps**
