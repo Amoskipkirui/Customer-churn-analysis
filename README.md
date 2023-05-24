@@ -9,12 +9,14 @@ SyriaTel prides itself in provision of  a wide range of services, including mobi
 Customer churn is where the customers stop or discontinue using the services of the company. We tried to detect whether there is a noticeable pattern for this, study the customer behavior and key factors that influences churn. 
 Customer churn not only impacts the revenue and the market share of the company but also it tests the customer loyalty to the service or the product that a company offers them.We utilized data and machine learning algorithms to detect and prevent churn.
 The project involved the following steps:
-1. Business and data understanding. This is where there is a general understanding of the business context and also the data used in the analysis
+1. Business and data understanding. The stakeholder audience for this project includes marketing managers, customer retention teams, and business executives. The dataset used for analysis is sourced from the company's customer database and contains information on various customer attributes, such as demographic data, service usage, and customer interactions. The dataset comprises X records and Y variables
 2. Data preprocessing and exploration - here we perform preparation of the data and cleaned it then went ahead to do an exploratory data analysis. We then identified patterns and trends from our analysis
-3. Modeling - we build predictive models using algoriths such as logistic regression, decision trees and random forest
-4. Evaluation - we evaluated the models using metrics such as accuracy, precision etc.
+3. Modeling - we built predictive models using algorithms such as logistic regression, decision trees and random forest. We started with a baseline logistic regression model, which is a widely-used algorithm for binary classification tasks. We further explored more advanced algorithms such as decision tree classifiers and random forests. Each model was trained on a subset of the dataset and evaluated using appropriate evaluation metrics.
+4. Evaluation - we evaluated the models using metrics such as accuracy, precision etc. We used the performance of each model to detrmine the best model that we used as our final model. In our project we used Logistic regression classifier.
 5. Hyperparametr tuning. We tuned the best performing model's hyperparameters to increase its accuracy and also generalizability.
 6. Insights and recommendations - here we drew insights from the exploratory data analysis and provided data-driven recommendations to the stakeholders to help mitigate the challenge of churning.
+7. conclusion - In conclusion, the analysis of the customer churn in SyriaTel has provided clear knowledge on the factors that leads to churning of the customers as well as  valuable insights into the  customer behaviors. 
+The models have provided a clear predictive power on customers churn as well as identifying important features that greatly influence customer retention. We found that customer service calls, total evening and day charges, international plan subscription and also voice mail plan  are key factors influencing customer churn.
 
 ###                                Repository structure
 
