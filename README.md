@@ -19,11 +19,13 @@ The project involved the following steps:
 The models have provided a clear predictive power on customers churn as well as identifying important features that greatly influence customer retention. We found that customer service calls, total evening and day charges, international plan subscription and also voice mail plan  are key factors influencing customer churn.
 
 ###                                Repository structure
+  1. README.md. Provides an overview of the project
+  2. Data - contains the dataset used in this project
+  3. github.pdf - a pdf of the github repository
+  4. index.ipynb/ notebook - contains the full project codes 
+  5. notebook.pdf - a pdf copy of the notebook
+  6. Presentation pdf. This contains the non technical presentation of the project.It contains visualizations from the notebook codes
 
-  1. Data - contains the dataset used in this project
-  2. index.ipynb/ notebook - contains the full project codes 
-  3. Presentation pdf. This contains the non technical presentation of the project.It contains visualizations from the notebook codes
-  4. README.md. Provides an overview of the project
 
 ###                                  Project dependencies
 
